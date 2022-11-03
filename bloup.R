@@ -7,3 +7,5 @@ y = x*2
 z = y - x
 
 # bloup bloup bloup
+
+# heia! vi er i Frankrike nå
