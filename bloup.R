@@ -11,3 +11,5 @@ z = y - x
 # heia! vi er i Frankrike nå
 
 # og jeg kan bruke GitKraken
+
+# så kult!
