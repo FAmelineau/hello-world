@@ -9,3 +9,5 @@ z = y - x
 # bloup bloup bloup
 
 # heia! vi er i Frankrike nå
+
+# og jeg kan bruke GitKraken
